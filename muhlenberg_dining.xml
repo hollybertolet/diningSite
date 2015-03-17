@@ -650,7 +650,7 @@
               <item title="Garden Burger" />
               <item title="French Fries" />
               <item title="Buffalo Chicken Patty" />
-	            <item title="Falafel Sandwich" />
+	      <item title="Falafel Sandwich" />
               <item title="Fried Mozzarella Sandwich" />
               <item title="Grilled Vegetables" />
             </station>
@@ -768,7 +768,7 @@
               <item title="Caesar Salad"/>
               <item title="Chicken Caesar Salad"/>
               <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
+              <item title="Plum Tomato &amp;  Mozzarella Salad" />
               <item title="Asian Kale Salad" />
               <item title="Cuban Rice Salad" />
             </station>
@@ -833,7 +833,7 @@
               <item title="Garden Burger" />
               <item title="French Fries" />
               <item title="Buffalo Chicken Patty" />
-	            <item title="Falafel Sandwich" />
+	      <item title="Falafel Sandwich" />
               <item title="White Manna Sliders" />
               <item title="Grilled Vegetables" />
             </station>
