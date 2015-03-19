@@ -14,3 +14,5 @@ angular.module('menu', ['xml'])
 
     });
   });
+
+var accvalue = 0;
