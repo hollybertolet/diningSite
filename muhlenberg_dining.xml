@@ -18,1172 +18,26 @@
         </style>
         <body>
             <div><strong style="font-size: 22px;">Monday - Thursday</strong></br>
-				7am to 8pm</div>
+        7am to 8pm</div>
         <div><strong style="font-size: 22px;">Friday</strong></br>
-				7am to 7pm</div>
-				<div><strong style="font-size: 22px;">Saturday</strong></br>
-				10am to 7pm</div>
-				<div><strong style="font-size: 22px;">Sunday</strong></br>
-				10am to 8pm</div>
+        7am to 7pm</div>
+        <div><strong style="font-size: 22px;">Saturday</strong></br>
+        10am to 7pm</div>
+        <div><strong style="font-size: 22px;">Sunday</strong></br>
+        10am to 8pm</div>
         </body>
         </html>]]> 
   </hours>
   <menu>
 
-   <day datelong="Sunday - March 15, 2015" dateshort="Sunday">
-
-          <period title="Brunch">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/>
-	      <item title="Tater Tots"/> 
-              <item title="French Fries" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit" />
-              <item title="Yogurt" />
-              <item title="Made to Order Omelet Bar"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Oatmeal" />
-              <item title="Zucchini, Pepper &amp; Spinach Frittata" />
-              <item title="Herbed Brown Potatoes"/>
-              <item title="Orange Baguette French Toast" />
-              <item title="Griddled Ham Steak" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Veggie Monster Baguette" />
-              <item title="Made to Order Deli Sandwiches" />
-              <item title="Broccoli Cheddar Soup" />
-              <item title="Navy Bean Soup" />
-             </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Parmesan Breadsticks" />
-              <item title="Pasta Bar" />
-              <item title="Margharita Pizza" /> 
-              <item title="Turkey A la King Casserette" />
-             </station>
- 
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Tuscan White Bean Salad" />
-              <item title="Sweet &amp; Sour Cucumbers" />
-              <item title="Pesto Pasta Salad" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Veggie Burger" />
-              <item title="Falafel Sandwich" />
-              <item title="Tossed Green Salad" />
-              <item title="Creamy Potato Soup" />
-              <item title="Bagels &amp; Lox" />
-              <item title="Soy Bacon" />
-              <item title="Egg White Sandwiches" />
-              <item title="Danish" />
-             </station>
-             
-            <station title="Noshery South">
-              <item title="All Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Matzah Ball Soup" />
-              <item title="Carrot Parsnip Soup" />
-              <item title="Scrambled Eggs" />
-              <item title="Herbed Potatoes" />
-              <item title="Corned Beef" />
-              <item title="Cookies" />
-             </station>
-
-          </period>
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="Buffalo Chicken Meltdown" />
-	      <item title="Falafel Sandwich" />
-              <item title="Grilled Veggies" />
-              <item title="French Fries" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Potato &amp; Onion Rosetti"/>
-            </station>
-
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Spicy Thai Beef Salad" />
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Smoked Turkey on a Pretzel Roll" />
-              <item title="Made to Order Deli Sandwiches" />
-              <item title="Broccoli Cheddar Soup" />
-              <item title="Navy Bean Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Seasoned London Broil" />
-              <item title="Quattro Formaggio" />
-              <item title="Roasted Mediterranean Veggies" />
-              <item title="Fresh Sugar Snap Peas" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Parmesan Breadsticks" />
-              <item title="Pasta Bar" />
-              <item title="Margharita Pizza" /> 
-              <item title="Turkey A la King Casserette" />
-             </station>
-
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Veggie Burger" />
-              <item title="Falafel Sandwich" />
-              <item title="Tossed Green Salad" />
-              <item title="Creamy Potato Soup" />
-              <item title="Stuffed Shells" />
-              <item title="Zucchini with Walnuts" />
-              <item title="Danish" />
-             </station>
-             
-            <station title="Noshery South">
-              <item title="All Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Matzah Ball Soup" />
-              <item title="Carrot Parsnip Soup" />
-              <item title="Maple Glazed Chicken" />
-              <item title="Mashed Sweet Potatoes" />
-              <item title="Roasted Root Vegetables" />
-              <item title="Cookies" />
-             </station>
-
-          </period>
-	</day>
-
-  <day datelong="Monday - March 16, 2015" dateshort="Monday">
-
-          <period title="Breakfast">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/> 
-	      <item title="Tater Tots"/> 
-            </station>
-
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit"/>
-              <item title="Yogurt"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Potato &amp; Garlic Frittata" />
-              <item title="Banana Pancakes" />
-              <item title="Home Fried Potatoes"/>
-              <item title="Turkey Sausage" />
-            </station>
-
-          </period>
-          <period title="Lunch">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Patty Melt" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Philly Cheesesteak Bowl"/>
-            </station>
-
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Spicy Thai Beef Salad"/>
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Smoked Turkey &amp; Parmesan" />
-              <item title="Harvest Vegetable Soup" />
-              <item title="Caribbean Fish Chowder" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Eggplant Parmesan" />
-              <item title="Spaghetti with Meat Sauce" />
-              <item title="Sauteed Spinach with Red Onion" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Margharita Pizza" />
-              <item title="Turkey A La King Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Green Bean Soup" />
-              <item title="Penne Melanzane" />
-              <item title="Succotash" />
-              <item title="Cookies" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Mushroom Barley Soup" />
-              <item title="Pulled BBQ Turkey" />
-              <item title="Baked Beans" />
-              <item title="Zucchini &amp; Tomatoes" />
-              <item title="Rainbow Cake" />
-             </station>
-
-          </period>
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzerella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Jumbo Cheese Ravioli"/>
-            </station>
-
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Spicy Thai Beef Salad"/>
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Smoked Turkey &amp; Parmesan" />
-              <item title="Harvest Vegetable Soup" />
-              <item title="Caribbean Fish Chowder" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="BBQ Chicken" />
-              <item title="Herbed Potatoes" />
-              <item title="Green Beans" />
-              <item title="Corn Pudding" />
-            </station>
-
-          <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Margharita Pizza" />
-              <item title="Turkey A La King Casserette" />
-            </station>
-     
-             <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Green Bean Soup" />
-              <item title="Orange Ginger Pollock" />
-              <item title="Jasmine Rice" />
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Cookies" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Mushroom Barley Soup" />
-              <item title="Beef Stew" />
-              <item title="Egg Noodles" />
-              <item title="Cauliflower Popcorn" />
-              <item title="Rainbow Cake" />
-             </station>
-
-          </period>
-  </day>
-    
-  <day datelong="Tuesday - March 17, 2015" dateshort="Tuesday">
-
-          <period title="Breakfast">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/> 
-	      <item title="Tater Tots"/> 
-            </station>
-
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit"/>
-              <item title="Yogurt"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Batter Dipped Waffles" />
-              <item title="Country Style Scrambled Eggs" />
-              <item title="Crispy Bacon"/>
-              <item title="Potatoes O'Brien" />
-            </station>
-          </period>
-
-          <period title="Lunch">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzarella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Blackened Steakhouse Salad"/>
-            </station>
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Spicy Thai Beef Salad"/>
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Smoked Turkey &amp; Parmesan" />
-              <item title="Split Pea Soup" />
-              <item title="Chicken Muligatawny Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Carolina Pulled Pork" />
-              <item title="Baked Beans" />
-              <item title="Zucchini &amp; Tomatoes" />
-              <item title="Steamed Corn" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Lots A Pasta"/>
-              <item title="Mac &amp; Cheese Pizza" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Cream of Spinach Soup" />
-              <item title="Angel Hair Seafood" />
-              <item title="Spinach Ricotta Burekas" />
-              <item title="Ginger Carrots" />
-              <item title="Lemon Mousse" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Asian Chicken Noodle Soup" />
-              <item title="Chicken Yakatori Satay" />
-              <item title="Brown Rice" />
-              <item title="Ginger Snap peas" />
-              <item title="Apple Cobbler" />
-             </station>
-
-          </period>
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzarella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Chili Cheese Dogs"/>
-            </station>
- 
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Spicy Thai Beef Salad"/>
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-           <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Smoked Turkey &amp; Parmesan" />
-              <item title="Split Pea Soup" />
-              <item title="Chicken Muligatawny Soup" />
-             </station>
-
-    <station title="Magellan's">
-              <item title="New England Dinner" />
-              <item title="Fresh Green Beans" />
-            </station>
-
-             <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Lots A Pasta"/>
-              <item title="Mac &amp; Cheese Pizza" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Cream of Spinach Soup" />
-              <item title="Potato Pancakes" />
-              <item title="Ratatouille" />
-              <item title="Lemon Mousse" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Asian Chicken Noodle Soup" />
-              <item title="Honey BBQ Chicken Wings" />
-              <item title="Quinoa with Peppers" />
-              <item title="Potato Knish" />
-              <item title="Apple Cobbler" />
-             </station>
-
-          </period>
-  </day>
- <day datelong="Wednesday - March 18, 2015" dateshort="Wednesday">
-
-          <period title="Breakfast">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/> 
-	      <item title="Tater Tots"/> 
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit"/>
-              <item title="Yogurt"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Sliced Lyonnaise Potatoes" />
-              <item title="Eggs Benedict" />
-              <item title="Blueberry Pancakes"/>
-              <item title="Sausage Patties"/> 
-            </station>
-          </period>
-
-          <period title="Lunch">
-            <station title="Wildfire Grille">
-              <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzarella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Chicken &amp; Andouille Gumbo"/>
-              <item title="Dirty Rice" />
-              <item title="Cornbread" />
-            </station> 
-
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Spicy Thai Beef Salad"/>
-              <item title="Edamame &amp; Corn Salad" />
-              <item title="Broccoli &amp; Cavatelli Salad" />
-              <item title="Golden Raisin Quinoa Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Mushroom Barley Soup" />
-              <item title="Loaded Baked Potato Soup" />
-              <item title="Smoked Turkey &amp; Parmesan" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Chicken Philly Cheesesteaks" />
-              <item title="Pierogies" />
-              <item title="Garlic Broccoli Raab" />
-              <item title="Grilled Yellow Squash" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Mac &amp; Cheese Pizza" />
-              <item title="Chicken Vincenza Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Tortilla Soup" />
-              <item title="Quesadillas" />
-              <item title="Mexican White Rice" />
-              <item ttile="Mexican Vegetable Medley" />
-              <item title="Scones" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Ratatouille Soup" />
-              <item title="Lamb Sliders" />
-              <item title="Garlic Fries" />
-              <item title="Green Bean Almondine" />
-              <item title="Blueberry Muffins" />
-             </station>
-
-          </period>
-		  
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzarella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Homemade Pasta Du Jour"/>
-            </station> 
-             
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Mushroom Barley Soup" />
-              <item title="Loaded Baked Potato Soup" />
-              <item title="Deviled Egg Salad Sandwich" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Southern Pot Roast" />
-              <item title="Seasoned White Rice" />
-              <item title="Fresh Cauliflower" />
-              <item title="Herb Roasted Butternut Squash" />
-              <item title="Fresh Green Peas" />
-            </station>
-            
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Mac &amp; Cheese Pizza" />
-              <item title="Chicken Vincenza Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Tortilla Soup" />
-              <item title="BBQ Tofu" />
-              <item title="Cajun Rice" />
-              <item title="Sweet &amp; Spicy Squash" />
-              <item title="Scones" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Ratatouille Soup" />
-              <item title="Chicken &amp; Waffles" />
-              <item title="Corn on the Cobb" />
-              <item title="Baked Beans" />
-              <item title="Blueberry Muffins" />
-             </station>
-
-          </period>
-
-  </day>
-<day datelong="Thursday - March 19, 2015" dateshort="Thursday">
-
-          <period title="Breakfast">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/> 
-	      <item title="Tater Tots"/> 
-            </station>
-
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit"/>
-              <item title="Yogurt"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Spinach Cheddar Scrambled Eggs" />
-              <item title="Tri-Tater Patties" />
-              <item title="Cinnamon Raisin French Toast"/>
-              <item title="Frizzled Ham"/> 
-            </station>
-
-          </period>
-          <period title="Lunch">
-            
-             <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="Fried Mozzarella Sandwich" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Baja Fish Tacos" />
-            </station>
-              
-        <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp;  Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="Chicken Vegetable Soup" />
-              <item title="Potato Leek Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Hot Italian Meatball Sandwich" />
-              <item title="Tuscan Fries" />
-              <item title="Grilled Ratatouille" />
-              <item title="Fresh Broccoli" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Mac &amp; Cheese Pizza" />
-              <item title="Chicken Vincenza Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Cream of Mushroom Soup" />
-              <item title="Pizza" />
-              <item title="Citrus Quinoa Salad" />
-              <item title="Oatmeal Raisin Cookies" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Thai Chicken Soup" />
-              <item title="Coconut Chicken" />
-              <item title="Mango Sticky Rice" />
-              <item title="Szechuan Eggplant" />
-              <item title="Hamatashen" />
-             </station>
-
-          </period>
-		  
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="White Manna Sliders" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Chicken Pot Pie"/>
-            </station>
-
-        <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="Potato Leek Soup" />
-              <item title="Chicken Vegetable Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Kung Pao Pork" />
-              <item title="Vegetarian Fried Rice" />
-              <item title="Fresh Carrots with Ginger" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Mac &amp; Cheese Pizza" />
-              <item title="Chicken Vincenza Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Cream of Mushroom Soup" />
-              <item title="Lasagna" />
-              <item title="Peas &amp; Carrots" />
-              <item title="Oatmeal Raisin Cookies" />
-             </station>
-
-            <station title="Noshery South">
-              <item title="Beef Hotdog" />
-              <item title="Hamburger" />
-              <item title="French Fries" />
-              <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
-              <item title="Matzah Ball Soup" />
-              <item title="Thai Chicken Soup" />
-              <item title="Beef Merguez Sausauge" />
-              <item title="Sundried Tomato Tortellini" />
-              <item title="Steamed Broccoli" />
-              <item title="Hamatashen" />
-             </station>
-
-          </period>
-
-   </day>
-
-<day datelong="Friday - March 20, 2015" dateshort="Friday">
-
-          <period title="Breakfast">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/> 
-	      <item title="Tater Tots"/> 
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit"/>
-              <item title="Yogurt"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Sweet Potato Hash Browns" />
-              <item title="Buttermilk Whole Wheat Pancakes" />
-              <item title="Corned Beef Hash"/>
-            </station>
-          </period>
-
-          <period title="Lunch">
-            <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="White Manna Sliders" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Wokabilities"/>
-            </station>
-
-        <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-              <item title="Noodle Bowl" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="New England Clam Chowder" />
-              <item title="Vegan Six Bean Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Mussels Marinara" />
-              <item title="Spaghetti" />
-              <item title="Fresh Broccoli" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Flatbread BBQ Chicken Pizza" />
-              <item title="Flatbread Tomato Bruschetta Pizza" />
-              <item title="Flatbread Spinach &amp; Ricotta Pizza" />
-              <item title="Flatbread Broccoli Cheddar Pizza"/>
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Chicken Vincenza" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Grilled Cheese" />
-              <item title="Tuna Melt" />
-              <item title="Falafel Sandwich" />
-              <item title="Veggie Burger" />
-              <item title="Tossed Green Salad" />
-              <item title="Carrot Ginger Soup" />
-              <item title="Moroccan Tilapia" />
-              <item title="Moroccan Couscous" />
-              <item title="Succotash" />
-              <item title="Cake" />
-             </station>
-
-          </period>
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="White Manna Sliders" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Wokabilities"/>
-            </station>
-
-        <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-              <item title="Noodle Bowl" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Made to Order Sandwiches" />
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="New England Clam Chowder" />
-              <item title="Vegan Six Bean Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Turkey London Broil" />
-              <item title="Baked Potato" />
-              <item title="Fresh Broccoli" />
-              <item title="Sauteed Carrots &amp; Onions" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Flatbread BBQ Chicken Pizza" />
-              <item title="Flatbread Tomato Bruschetta Pizza" />
-              <item title="Flatbread Spinach &amp; Ricotta Pizza" />
-              <item title="Flatbread Broccoli Cheddar Pizza"/>
-              <item title="Garlic Breadsticks"/>
-              <item title="Pasta Bar"/>
-              <item title="Chicken Vincenza" />
-            </station>
-
-          </period>
-  </day>
-  
-<day datelong="Saturday - March 21, 2015" dateshort="Saturday">
-
-          <period title="Brunch">
-            <station title="Wildfire Grille">
-              <item title="Made to Order Breakfast Sandwiches"/>
-	      <item title="Tater Tots"/> 
-              <item title="French Fries" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Fresh Fruit" />
-              <item title="Yogurt" />
-              <item title="Made to Order Omelet Bar"/>
-            </station>
-
-            <station title="Magellan's">
-              <item title="Scrambled Eggs" />
-              <item title="Oatmeal" />
-              <item title="Scrambled Eggs with Chorizo" />
-              <item title="Waffles with Strawberries" />
-              <item title="Tater Tots" />
-              <item title="Turkey Bacon" /> 
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="Made to Order Deli Sandwiches" />
-              <item title="Mushroom Bisque" />
-              <item title="Turkey Vegetable Soup" />
-             </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Parmesan Breadsticks" />
-              <item title="Pasta Bar" />
-              <item title="Margharita Pizza" /> 
-              <item title="Breakfast Vegetable Casserette" />
-             </station>
-
-        <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Cobb Salad"/>
-              <item title="Plum Tomato &amp; Mozzarella Salad" />
-              <item title="Asian Kale Salad" />
-              <item title="Cuban Rice Salad" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Challah" />
-              <item title="Grape Juice" />
-              <item title="Gefilte Fish" />
-              <item title="Baked Falafel" />
-              <item title="Spicy Peanut Noodles" />
-              <item title="Lasagna" />
-              <item title="Kugel" />
-              <item title="Pasta Salad" />
-              <item title="Tuna Salad" />
-              <item title="Egg Salad" />
-             </station>
-
-          </period>
-
-          <period title="Dinner">
-            <station title="Wildfire Grille">
-	      <item title="Hamburger" />
-              <item title="Cheeseburger" />
-              <item title="Turkey Burger" />
-              <item title="Grilled Cheese" />
-              <item title="Garden Burger" />
-              <item title="French Fries" />
-              <item title="Buffalo Chicken Patty" />
-	      <item title="Falafel Sandwich" />
-              <item title="White Manna Sliders" />
-              <item title="Grilled Vegetables" />
-            </station>
-
-            <station title="Chef's Table">
-              <item title="Beef Tacos"/>
-              <item title="Refried Beans" />
-              <item title="Fire Roasted Salsa" />
-              <item title="Green Rice" />
-            </station>
-
-            <station title="Croutons">
-              <item title="Caesar Salad"/>
-              <item title="Chicken Caesar Salad"/>
-              <item title="Pear, Walnut, Cheese Plate"/>
-              <item title="Pineapple Coleslaw" />
-              <item title="Balsamic Pasta Salad" />
-              <item title="Grilled Tandoori Tofu Salad" />
-            </station>
-
-            <station title="Chew Street Deli">
-              <item title="Deviled Egg Salad Sandwich" />
-              <item title="Made to Order Deli Sandwiches" />
-              <item title="Mushroom Bisque" />
-              <item title="Turkey Barley Soup" />
-             </station>
-
-            <station title="Magellan's">
-              <item title="Cranberry Harvest Chicken Breast" />
-              <item title="Oven Roasted Butternut Squash" />
-              <item title="Peas &amp; Mushrooms" />
-              <item title="Carmalized Root Vegetables" />
-            </station>
-
-            <station title="Mangia! Mangia!">
-              <item title="Cheese Pizza" />
-              <item title="Pepperoni Pizza" />
-              <item title="Garlic Parmesan Breadsticks" />
-              <item title="Pasta Bar" />
-              <item title="Buffalo Chicken Pizza" /> 
-              <item title="Broccoli Cheese Pasta Casserette" />
-            </station>
-
-            <station title="Noshery North">
-              <item title="Challah" />
-              <item title="Grape Juice" />
-              <item title="Gefilte Fish" />
-              <item title="Baked Falafel" />
-              <item title="Spicy Peanut Noodles" />
-              <item title="Lasagna" />
-              <item title="Kugel" />
-              <item title="Pasta Salad" />
-              <item title="Tuna Salad" />
-              <item title="Egg Salad" />
-             </station>
-          </period>
-          
-   </day>
    <day datelong="Sunday - March 22, 2015" dateshort="Sunday">
 
           <period title="Brunch">
             <station title="Wildfire Grille">
               <item title="Made to Order Breakfast Sandwiches"/>
-	      <item title="Tater Tots"/> 
+        <item title="Tater Tots"/> 
               <item title="French Fries" />
-   	      <item title="White Manna Sliders" />
+              <item title="Sliders" />
             </station>
 
             <station title="Chef's Table">
@@ -1204,7 +58,7 @@
             <station title="Chew Street Deli">
               <item title="Made to Order Deli Sandwiches" />
               <item title="Broccoli Cheddar Soup" />
-              <item title="Chicken &amp; Noodle Soup" />
+              <item title="Chicken Noodle Soup" />
               <item title="Peppered Chicken Sandwich" />
              </station>
 
@@ -1214,17 +68,16 @@
               <item title="Garlic Parmesan Breadsticks" />
               <item title="Pasta Bar" />
               <item title="Buffalo Chicken Pizza" /> 
-              <item title="Broccoli Cheese Pasta Casserette" />
+              <item title="Breakfast Calzone" />
              </station>
  
-            <station title="Croutons">
+             <station title="Croutons">
               <item title="Caesar Salad"/>
               <item title="Chicken Caesar Salad"/>
-              <item title="Pear, Walnut, Cheese Plate"/>
+              <item title="Balsamic Pasta Salad"/>
               <item title="Pineapple Coleslaw" />
-              <item title="Balsamic Pasta Salad" />
-              <item title="Grilled Tandoori Tofu Salad" />
-            </station>
+              <item title="Pear, Cheese, Walnut Plate" />
+             </station>
 
             <station title="Noshery North">
               <item title="Grilled Cheese" />
@@ -1232,11 +85,11 @@
               <item title="Falafel Sandwich" />
               <item title="Veggie Burger" />
               <item title="Tossed Green Salad" />
-              <item title="Cream of Spinach Soup" />
+              <item title="Tomato Garlic Soup" />
               <item title="Bagels &amp; Lox" />
-              <item title="Egg White Patties" />
-              <item title="Vegetarian Sausage" />
-              <item title="Blueberry Scones" />
+              <item title="Egg Whites &amp; Cheese" />
+              <item title="Vegetarian Sausage Pattie" />
+              <item title="Scones" />
              </station>
 
             <station title="Noshery South">
@@ -1244,14 +97,13 @@
               <item title="Hamburger" />
               <item title="French Fries" />
               <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
               <item title="Matzah Ball Soup" />
               <item title="Sausage Florentine Soup" />
-              <item title="Turkey Pastrami" />
               <item title="Scrambled Eggs" />
-              <item title="Home Fried Potatoes" />
-              <item title="Apple Crisp" />
-             </station>
+              <item title="Turkey Pastrami" />
+              <item title="Home Fried Potatoes" />  
+              <item title="Cookies" />
+            </station>
 
           </period>
 
@@ -1272,26 +124,27 @@
               <item title="Banh Xeo Pancakes"/>
             </station>
 
-              <station title="Croutons">
+           <station title="Croutons">
               <item title="Caesar Salad"/>
               <item title="Chicken Caesar Salad"/>
               <item title="Balsamic Pasta Salad"/>
               <item title="Pineapple Coleslaw" />
               <item title="Grilled Tandoori Tofu Salad" />
-              <item title="Pear, Walnut, Cheese Plate" />
+              <item title="Pear, Cheese &amp; Walnut Plate" />
             </station>
 
-            <station title="Chew Street Deli">
+           <station title="Chew Street Deli">
               <item title="Made to Order Deli Sandwiches" />
               <item title="Broccoli Cheddar Soup" />
-              <item title="Chicken &amp; Noodle Soup" />
+              <item title="Chicken Noodle Soup" />
               <item title="Peppered Chicken Sandwich" />
              </station>
 
             <station title="Magellan's">
-              <item title="Southern Fried Chicken" />
-              <item title="Yukon Gold Mashed Potatoes" />
+              <item title="Southern Fried Chicken"/>
+              <item title="Mashed Yukon Gold Potatoes" />
               <item title="Pot Likker Collard Greens" />
+              <item title="Steamed Corn" />
             </station>
 
             <station title="Mangia! Mangia!">
@@ -1301,20 +154,19 @@
               <item title="Pasta Bar" />
               <item title="Buffalo Chicken Pizza" /> 
               <item title="Broccoli Cheese Pasta Casserette" />
-             </station>
+            </station>
 
-  
             <station title="Noshery North">
               <item title="Grilled Cheese" />
               <item title="Tuna Melt" />
               <item title="Falafel Sandwich" />
               <item title="Veggie Burger" />
               <item title="Tossed Green Salad" />
-              <item title="Cream of Spinach Soup" />
+              <item title="Tomato Garlic Soup" />
               <item title="Parmesan Crusted Tilapia" />
-              <item title="Spaghetti" />
+              <item title="Spaghetti Marinara" />
               <item title="Green Beans with Garlic" />
-              <item title="Blueberry Scones" />
+              <item title="Scones" />
              </station>
 
             <station title="Noshery South">
@@ -1322,25 +174,1119 @@
               <item title="Hamburger" />
               <item title="French Fries" />
               <item title="Deli Sandwich" />
-              <item title="Grilled Portobello" />
               <item title="Matzah Ball Soup" />
               <item title="Sausage Florentine Soup" />
-              <item title="Sweet &amp; Sour Turkey Meatballs" />
+              <item title="Sweet &amp; Sour Meatballs" />
               <item title="Bowtie Noodles" />
               <item title="Grilled Ratatouille" />
-              <item title="Apple Crisp" />
+              <item title="Cookies" />
+            </station>
+
+      </period>
+      </day> 
+
+
+   <day datelong="Monday - March 23, 2015" dateshort="Monday">
+
+          <period title="Breakfast">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/> 
+        <item title="Tater Tots"/> 
+            </station>
+
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit"/>
+              <item title="Yogurt"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Oatmeal" />
+              <item title="Huevos Rancheros" />
+              <item title="Herbed Roasted Potatoes"/>
+              <item title="Marmalade French Toast"/>
+              <item title="Frizzled Ham"/> 
+            </station>
+          </period>
+
+          <period title="Lunch">
+
+            <station title="Wildfire Grille">
+              <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Garden Pesto Press" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Carne Asada"/>
+              <item title="Red Beans &amp; Rice" />
+            </station>
+
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Pineapple Cole Slaw" />
+              <item title="Balsamic Pasta Salad"/>
+              <item title="Pear, Cheese &amp; Walnut Plate"/>
+              <item title="Grilled Tandoori Tofu Salad" />
              </station>
-	</period>
-			</day> 
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Peppered Chicken Sandwich" />
+              <item title="Egg Drop Soup" />
+              <item title="Ash Reshteh" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Chicken Parmesan Sandwich" />
+              <item title="Tuscan Fries" />
+              <item title="Fettuccini Alfredo" />
+              <item title="Fresh Green Beans" />
+            </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Buffalo Chicken Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+              <item title="Broccoli Cheese Pasta Casserette" />
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Butternut Squash Soup" />
+              <item title="Mushroom Farfelle" />
+              <item title="Green Bean Casserole" />
+              <item title="Cookies" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Deli Sandwich" />
+              <item title="Matzah Ball Soup" />
+              <item title="Sweet Potato Soup" />
+              <item title="Sherry Chicken" />
+              <item title="Rice Pilaf" />
+              <item title="Honey Glazed Carrots" />
+              <item title="Chocolate Cake" />
+            </station>
+
+          </period>
+
+          <period title="Dinner">
+            <station title="Wildfire Grille">
+       <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Garden Pesto Press" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Nowruz Celebration"/>
+              <item title="Stuffed Grape Leaves" />
+              <item title="Beef Kofta" />
+              <item title="Salata" />
+            </station>
+
+          <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Pineapple Cole Slaw" />
+              <item title="Balsamic Pasta Salad"/>
+              <item title="Pear, Cheese &amp; Walnut Plate"/>
+              <item title="Grilled Tandoori Tofu Salad" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Peppered Chicken Sandwich" />
+              <item title="Egg Drop Soup" />
+              <item title="Ash Reshteh" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Lamb Tikka" />
+              <item title="Roasted Vegetables" />
+              <item title="Chili Fry Bread" />
+              <item title="Fresh Spinach" />
+              <item title="Lentil Samosa Filling" />
+            </station>
+
+              <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Buffalo Chicken Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+              <item title="Broccoli Cheese Pasta Casserette" />
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Butternut Squash Soup" />
+              <item title="General Tso Tofu" />
+              <item title="White Rice" />
+              <item title="Asian Cucumber Salad" />
+              <item title="Cookies" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Deli Sandwich" />
+              <item title="Matzah Ball Soup" />
+              <item title="Sweet Potato Soup" />
+              <item title="Beef Chili" />
+              <item title="White Rice" />
+              <item title="Sauteed Spinach" />
+              <item title="Chocolate Cake" />
+            </station>
+
+          </period>
+          </day>
+    
+  <day datelong="Tuesday - March 24, 2015" dateshort="Tuesday">
+
+          <period title="Breakfast">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/> 
+        <item title="Tater Tots"/> 
+            </station>
+
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit"/>
+              <item title="Yogurt"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Zucchini, Pepper &amp; Spinach Frittata" />
+              <item title="Apple Filled Crepes" />
+              <item title="Sausage Links"/>
+              <item title="Home Fried Potatoes" />
+            </station>
+
+          </period>
+          <period title="Lunch">
+
+            <station title="Wildfire Grille">
+              <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Garden Pesto Press" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Chicken Wing Bar"/>
+            </station>
+
+             <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Pineapple Cole Slaw" />
+              <item title="Balsamic Pasta Salad"/>
+              <item title="Grilled Tandoori Tofu Salad"/>
+              <item title="Pear, Cheese &amp; Walnut Plate" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Chicken &amp; Andouille Gumbo"/>
+              <item title="Cream of Mushroom Soup" />
+              <item title="Peppered Chicken Sandwich" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Kansas City Beef BBQ" />
+              <item title="Southern Cole Slaw" />
+              <item title="Roasted Chili Cheddar Cornbread Pudding" />
+              <item title="Roasted Southwestern Vegetables" />
+              <item title="Sauteed Zucchini" />
+            </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Lots 'A Pasta"/>
+             </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Garbanzo Tortellini Soup" />
+              <item title="Cheese Tortellini" />
+              <item title="Herbed Potatoes" />
+              <item title="Peas &amp; Carrots" />
+              <item title="Boston Cream Pie" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Deli Sandwich" />
+              <item title="Matzah Ball Soup" />
+              <item title="Italian Wedding Soup" />
+              <item title="Chicken Cacciatora" />
+              <item title="Fettucini" />
+              <item title="Roasted Vegetables" />
+              <item title="Apple Strudel" />  
+            </station>
+
+          </period>
+
+          <period title="Dinner">
+           <station title="Wildfire Grille">
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Garden Pesto Press" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Nachos"/>
+            </station>
+
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Garden Salad with Mango Salsa"/>
+              <item title="Creole Tomato &amp; Artichoke Salad"/>
+              <item title="Cranberry &amp; Walnut Couscous Salad" />
+             </station>
+
+           <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Chicken &amp; Andouille Gumbo"/>
+              <item title="Cream of Mushroom Soup" />
+              <item title="Beef &amp; Horseradish Biggie" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Roasted Turkey Breast" />
+              <item title="Oven Roasted Red Potatoes" />
+              <item title="Baked Acorn Squash" />
+              <item title="Fresh Broccoli" />
+            </station>
+
+          <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Lots 'A Pasta"/>
+            </station>
+ 
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Garbanzo Tortellini Soup" />
+              <item title="Fettucini Alfredo" />
+              <item title="Cauliflower Popcorn" />
+              <item title="Boston Cream Pie" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Deli Sandwich" />
+              <item title="Matzah Ball Soup" />
+              <item title="Italian Wedding Soup" />
+              <item title="Beef Burginon" />
+              <item title="Sweet Potato Burkekas" />
+              <item title="Curry Zucchini" />
+              <item title="Egg Noodles" />
+              <item title="Apple Strudel" />  
+            </station>
+
+          </period>
+  </day>
+ <day datelong="Wednesday - March 25, 2015" dateshort="Wednesday">
+
+          <period title="Breakfast">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/> 
+        <item title="Tater Tots"/> 
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit"/>
+              <item title="Yogurt"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Egg &amp; Spinach Quesadilla" />
+              <item title="Potato Pancakes" />
+              <item title="Griddled Ham Steak"/> 
+            </station>
+
+          </period>
+          <period title="Lunch">
+            <station title="Wildfire Grille">
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Patty" />
+        <item title="Falafel Sandwich" />
+              <item title="Garden Pesto Press" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Greek Lemon Chicken"/>
+              <item title="Orzo" />
+            </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Harvest Vegetable Soup" />
+              <item title="Apple Pumpkin Soup" />
+              <item title="Beef &amp; Horseradish Biggie" />
+             </station>
+
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Garden Salad with Mango Salsa"/>
+              <item title="Creole Tomato &amp; Artichoke Salad"/>
+              <item title="Cranberry &amp; Walnut Couscous Salad" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Sausage Sandwich" />
+              <item title="Waffle Fries" />
+              <item title="Fresh Broccoli" />
+              <item title="Corn on the Cob" />
+            </station>
+
+          <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+              <item title="Cheese Tortellini with Marinara" />
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Veggie Burger" />
+              <item title="Falafel Sandwich" />
+              <item title="Tossed Green Salad" />
+              <item title="French Onion Soup" />
+              <item title="Tofu Stir Fry" />
+              <item title="Ginger Carrots" />
+              <item title="White Rice"/>
+              <item title="Cupcakes" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Grilled Chicken" />
+              <item title="Matzah Ball Soup" />
+              <item title="Chicken &amp; Rice Soup" />
+              <item title="Beef Tacos" />
+              <item title="Mexican Rice" />
+              <item title="Corn Salsa" />
+              <item title="Pineapple Cake" />
+             </station>
+          </period>
+      
+            <period title="Dinner">
+            <station title="Wildfire Grille">
+              <item title="Maple Dijon Turkey Burger" />
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Patty" />
+        <item title="Falafel Sandwich" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Homemade Pasta" />
+            </station>
+
+             <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Creole Tomato &amp; Artichoke salad"/>
+              <item title="Apple, Walnut &amp; Cranberry Couscous"/>
+              <item title="Garden Salad with Mango Salsa" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Harvest Vegetable Soup" />
+              <item title="Apple Pumpkin Soup" />
+              <item title="Beef &amp; Horseradish Biggie" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Tilapia Florentine" />
+              <item title="Butternut Squash &amp; Lentils" />
+              <item title="Quinoa with Squash &amp; Tomatoes" />
+              <item title="Brussels Sprouts" />
+            </station>
+    
+          <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Cheese Tortellini with Marinara" />
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Veggie Burger" />
+              <item title="Falafel Sandwich" />
+              <item title="Tossed Green Salad" />
+              <item title="French Onion Soup" />
+              <item title="Mozzarella Sticks" />
+              <item title="Mediterranean Salad" />
+              <item title="Tomato &amp; Red Onion Salad" />
+              <item title="Cupcakes" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Grilled Chicken" />
+              <item title="Matzah Ball Soup" />
+              <item title="Garlic Tomato Soup" />
+              <item title="Brisket" />
+              <item title="Potato Knish" />
+              <item title="Glazed Carrots" />
+              <item title="Pineapple Cake" />
+             </station>
+          </period>
+
+  </day>
+<day datelong="Thursday - March 26, 2015" dateshort="Thursday">
+
+          <period title="Breakfast">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/> 
+        <item title="Tater Tots"/> 
+            </station>
+
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit"/>
+              <item title="Yogurt"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Leek, Spinach &amp; Mushroom Frittata" />
+              <item title="Tri-Tater Patties" />
+              <item title="Cinnamon Roll French Toast"/>
+              <item title="Crisp Bacon"/> 
+            </station>
+
+          </period>
+
+          <period title="Lunch">
+            <station title="Wildfire Grille">
+              <item title="Maple Dijon Turkey Burger" />
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Patty" />
+        <item title="Falafel Sandwich" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Macaroni &amp; Cheese Bar"/>
+            </station>
+
+             <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Creole Tomato &amp; Artichoke salad"/>
+              <item title="Apple Walnut &amp; Cranberry Couscous"/>
+              <item title="Garden Salad with Mango Salsa" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Beef &amp; Horseradish Biggie" />
+              <item title="Italian Wedding Soup" />
+              <item title="Creamy Tomato Basil Soup" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Miso BBQ Chicken" />
+              <item title="Bok Choy Stir Fry" />
+              <item title="Zucchini &amp; Yellow Squash" />
+              <item title="Asian Green Rice" />
+            </station>
+
+          <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Curried Vegetable Soup" />
+              <item title="Eggplant Sloppy Joes" />
+              <item title="Spaghetti" />
+              <item title="Peas &amp; Carrots" />
+              <item title="Coffee Cake" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Grilled Chicken" />
+              <item title="Matzah Ball Soup" />
+              <item title="Chicken Vegetable Soup" />
+              <item title="Italian Sausage" />
+              <item title="Egg Noodles" />
+              <item title="Steamed Broccoli" />
+              <item title="Triple Chocolate Brownies" />
+             </station>
+          </period>
+      
+          <period title="Dinner">
+            <station title="Wildfire Grille">
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Maple Dijon Turkey Burger" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Risotto ala Funghi"/>
+              <item title="Tomato Bread" />
+            </station>
+
+             <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Creole Tomato &amp; Artichoke salad"/>
+              <item title="Apple Walnut &amp; Cranberry Couscous"/>
+              <item title="Garden Salad with Mango Salsa" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Beef &amp; Horseradish Biggie" />
+              <item title="Italian Wedding Soup" />
+              <item title="Creamy Tomato Basil Soup" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Penne Carbonara with Chicken" />
+              <item title="Baked Ziti with Sausage" />
+              <item title="Garlic Bread" />
+              <item title="Fresh Cauliflower" />
+              <item title="Zucchini &amp; Tomatoes" />
+            </station>
+
+             <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Ziti Pesto Alfredo Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Curried Vegetable Soup" />
+              <item title="Indian Fish Curry" />
+              <item title="Basmati Rice" />
+              <item title="Indian Sweet Potatoes" />
+              <item title="Coffee Cake" />
+             </station>
+
+            <station title="Noshery South">
+              <item title="Beef Hotdog" />
+              <item title="Hamburger" />
+              <item title="French Fries" />
+              <item title="Grilled Chicken" />
+              <item title="Matzah Ball Soup" />
+              <item title="Chicken Vegetable Soup" />
+              <item title="Chicken Pot Pie" />
+              <item title="Vegetable Quinoa" />
+              <item title="Ginger Snap Peas" />
+              <item title="Triple Chocolate Brownies" />
+             </station>
+          </period>
+
+   </day>
+
+<day datelong="Friday - March 27, 2015" dateshort="Friday">
+
+          <period title="Breakfast">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/> 
+        <item title="Tater Tots"/> 
+            </station>
+
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit"/>
+              <item title="Yogurt"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Home Fried Potatoes" />
+              <item title="Western Scrambled Eggs" />
+              <item title="Texas French Toast"/>
+              <item title="Frizzled Ham"/>
+              <item title="Sausage Gravy &amp; Bisquits" />
+            </station>
+
+          </period>
+          <period title="Lunch">
+            <station title="Wildfire Grille">
+              <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Maple Dijon Turkey Burger" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Wokabilities"/>
+            </station>
+
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Steak Fajita Salad" />
+              <item title="Creole Tomato &amp; Artichoke salad"/>
+              <item title="Apple Walnut &amp; Cranberry Couscous"/>
+              <item title="Garden Salad with Mango Salsa" />
+              <item title="Noodle Bowls" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Chicken Noodle Soup" />
+              <item title="Creamy Potato Soup" />
+              <item title="Beef &amp; Horseradish Biggie" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Open-Faced Turkey Sandwich" />
+              <item title="Mashed Potatoes" />
+              <item title="Turkey Gravy" />
+              <item title="Steamed Corn" />
+            </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Tomato Bruschetta Flatbread Pizza" />
+              <item title="Broccoli Cheddar Flatbread Pizza" />
+              <item title="Spinach &amp; Ricotta Flatbread Pizza" />
+              <item title="BBQ Chicken Flatbread Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+            </station>
+
+            <station title="Noshery North">
+              <item title="Grilled Cheese" />
+              <item title="Tuna Melt" />
+              <item title="Falafel Sandwich" />
+              <item title="Veggie Burger" />
+              <item title="Tossed Green Salad" />
+              <item title="Fire Roasted Corn Soup" />
+              <item title="Tofu Pad Thai" />
+              <item title="Coconut Mango Rice" />
+              <item title="Thai Eggplant" />
+              <item title="Cake" />
+             </station>
+
+          </period>
+
+          <period title="Dinner">
+            <station title="Wildfire Grille">
+        <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+        <item title="Falafel Sandwich" />
+              <item title="Maple Dijon Turkey Burger" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Wokabilities"/>
+            </station>
+
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Mango Mojito Chicken Salad" />
+              <item title="Mandarin Orange Spinach salad"/>
+              <item title="Tossed Wheatberry &amp; Corn Salad"/>
+              <item title="Cheddar &amp; Bacon Potato Salad" />
+             </station>
+
+             <station title="Chew Street Deli">
+              <item title="Made to Order Sandwiches" />
+              <item title="Chicken Noodle Soup" />
+              <item title="Creamy Potato Soup" />
+              <item title="Melanzana Caprese" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="London Broil" />
+              <item title="Baked Potato" />
+              <item title="Sauteed Spinach" />
+              <item title="Sauteed Carrots &amp; Onions" />
+            </station>
+    
+            <station title="Mangia! Mangia!">
+              <item title="Tomato Bruschetta Flatbread Pizza" />
+              <item title="Broccoli Cheddar Flatbread Pizza" />
+              <item title="Spinach &amp; Ricotta Flatbread Pizza" />
+              <item title="BBQ Chicken Flatbread Pizza" />
+              <item title="Garlic Breadsticks"/>
+              <item title="Pasta Bar"/>
+            </station>
+
+          </period>
+  </day>
+  
+   <day datelong="Saturday - March 28, 2015" dateshort="Saturday">
+
+          <period title="Brunch">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/>
+        <item title="Tater Tots"/> 
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit" />
+              <item title="Yogurt" />
+              <item title="Made to Order Omelet Bar"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Oatmeal" />
+              <item title="Chocolate Chip Pancakes" />
+              <item title="Cheddar &amp; Spinach Scrambled Eggs"/>
+              <item title="Corned Beef Hash" />
+              <item title="Roasted Potatoes" />
+              <item title="Roasted Turkey" />
+            </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Deli Sandwiches" />
+              <item title="Broccoli Cheddar Soup" />
+              <item title="Turkey Vegetable Soup" />
+              <item title="Melanzana Caprese" />
+             </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Garlic Parmesan Breadsticks" />
+              <item title="Pasta Bar" />
+              <item title="Margharita Pizza" /> 
+              <item title="Ham, Egg &amp; Cheese Casserette" />
+              <item title="Baked Ziti with Vodka Sauce" />
+             </station>
+            
+            <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Mango Mojito Chicken Salad" />
+              <item title="Mandarin Orange Spinach salad"/>
+              <item title="Tossed Wheatberry &amp; Corn Salad"/>
+              <item title="Cheddar &amp; Bacon Potato Salad" />
+             </station>
+
+            <station title="Noshery North">
+              <item title="Challah" />
+              <item title="Grape Juice" />
+              <item title="Gefilte Fish" />
+              <item title="Falafel Sandwich" />
+              <item title="Peanut Noodles" />
+              <item title="Eggplant Parmesan" />
+              <item title="Zucchini Kugel" />
+              <item title="Pasta Salad" />
+              <item title="Tuna Salad" />
+              <item title="Corn Salad" />
+             </station>
+
+          </period>
+
+          <period title="Dinner">
+            <station title="Wildfire Grille">
+              <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+              <item title="Falafel Sandwich" />
+              <item title="Black Bean Quesadilla" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Pozole"/>
+              <item title="Salsa Verde" />
+            </station>
+
+          <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Mango Mojito Salad" />
+              <item title="Mandarin Orange salad"/>
+              <item title="Tossed Wheat Berry &amp; Corn Salad"/>
+              <item title="Cheddar &amp; Bacon Potato Salad" />
+             </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Deli Sandwiches" />
+              <item title="Broccoli Cheddar Soup" />
+              <item title="Turkey Vegetable Soup" />
+              <item title="Melanzana Caprese" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Salisbury Steak"/>
+              <item title="Chipotle Roasted Sweet Potatoes" />
+              <item title="Fresh Green Beans" />
+            </station>
+
+              <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Garlic Parmesan Breadsticks" />
+              <item title="Pasta Bar" />
+              <item title="Margharita Pizza" /> 
+              <item title="Sausage &amp; Peppers Pizzarito" />
+              <item title="Baked Ziti with Vodka Sauce" />
+             </station>
+
+            <station title="Noshery North">
+              <item title="Challah" />
+              <item title="Grape Juice" />
+              <item title="Gefilte Fish" />
+              <item title="Falafel Sandwich" />
+              <item title="Peanut Noodles" />
+              <item title="Eggplant Parmesan" />
+              <item title="Zucchini Kugel" />
+              <item title="Pasta Salad" />
+              <item title="Tuna Salad" />
+              <item title="Corn Salad" />
+             </station>
+          </period>
+          
+   </day>
+
+   <day datelong="Sunday - March 29, 2015" dateshort="Sunday">
+
+          <period title="Brunch">
+            <station title="Wildfire Grille">
+              <item title="Made to Order Breakfast Sandwiches"/>
+        <item title="Tater Tots"/> 
+              <item title="French Fries" />
+              <item title="Black Bean &amp; Cheese Quesadilla" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Fresh Fruit" />
+              <item title="Yogurt" />
+              <item title="Made to Order Omelet Bar"/>
+            </station>
+
+            <station title="Magellan's">
+              <item title="Scrambled Eggs" />
+              <item title="Oatmeal" />
+              <item title="Eggs Benedict with Canadian Bacon" />
+              <item title="Waffles Diana with Blueberries"/>
+              <item title="Sausage Patties" />
+              <item title="Hash Browned Potatoes" />
+            </station>
+
+            <station title="Chew Street Deli">
+              <item title="Made to Order Deli Sandwiches" />
+              <item title="Tomato Florentine Soup" />
+              <item title="Lentil &amp; Spinach Soup" />
+              <item title="Melanzana Caprese" />
+             </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Garlic Parmesan Breadsticks" />
+              <item title="Pasta Bar" /> 
+              <item title="Veggie Breakfast Calzone" />
+              <item title="Baked Ziti with Vodka Sauce" />
+             </station>
+ 
+          <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Mango Mojito Salad" />
+              <item title="Mandarin Orange salad"/>
+              <item title="Tossed Wheat Berry &amp; Corn Salad"/>
+              <item title="Cheddar &amp; Bacon Potato Salad" />
+             </station>
+
+            </period>
+
+          <period title="Dinner">
+            <station title="Wildfire Grille">
+              <item title="Hamburger" />
+              <item title="Cheeseburger" />
+              <item title="Turkey Burger" />
+              <item title="Grilled Cheese" />
+              <item title="Garden Burger" />
+              <item title="French Fries" />
+              <item title="Buffalo Chicken Meltdown" />
+              <item title="Falafel Sandwich" />
+              <item title="Black Bean &amp; Cheese Quesadilla" />
+            </station>
+
+            <station title="Chef's Table">
+              <item title="Chicken Fajita Tacos"/>
+              <item title="Spanish Rice" />
+            </station>
+
+          <station title="Croutons">
+              <item title="Caesar Salad"/>
+              <item title="Chicken Caesar Salad"/>
+              <item title="Mango Mojito Salad" />
+              <item title="Mandarin Orange salad"/>
+              <item title="Tossed Wheat Berry &amp; Corn Salad"/>
+              <item title="Cheddar &amp; Bacon Potato Salad" />
+             </station>
+
+          <station title="Chew Street Deli">
+              <item title="Made to Order Deli Sandwiches" />
+              <item title="Tomato Florentine Soup" />
+              <item title="Lentil &amp; Spinach Soup" />
+              <item title="Melanzana Caprese" />
+             </station>
+
+            <station title="Magellan's">
+              <item title="Classic Roasted Turkey" />
+              <item title="Turkey Gravy" />
+              <item title="Mashed Red Potatoes" />
+              <item title="Steamed Corn" />
+              <item title="Brussels Sprouts" />
+            </station>
+
+            <station title="Mangia! Mangia!">
+              <item title="Cheese Pizza" />
+              <item title="Pepperoni Pizza" />
+              <item title="Garlic Parmesan Breadsticks" />
+              <item title="Pasta Bar" /> 
+              <item title="Sausage &amp; Peppers Pizzarito" />
+              <item title="Baked Ziti with Vodka Sauce" />
+             </station>
+
+          </period>
+
+   </day>
+
   </menu>
- </location>
+</location>
 <location id="location_2" title="The GQ">
       <logo_thumbnail>http://software.mogistic.com/muhlenberg/dining/locations/gq_logo_small.png</logo_thumbnail>
       <logo>http://software.mogistic.com/muhlenberg/dining/locations/gq_logo_big.png</logo>
       <hours>
         <!-- HTML formatted text -->
         <![CDATA[
-				<html>
+        <html>
         <head></head>
         <style>
         body {
@@ -1348,14 +1294,14 @@
         }
         </style>
         <body>
-				<div><strong style="font-size: 22px;">Monday - Thursday</strong></br>
-				7:00am to 12:00am</div>
+        <div><strong style="font-size: 22px;">Monday - Thursday</strong></br>
+        7:00am to 12:00am</div>
         <div><strong style="font-size: 22px;">Friday</strong></br>
-				7:00am to 3:00am</div>
-				<div><strong style="font-size: 22px;">Saturday</strong></br>
-				9:00am to 3:00am</div>
-				<div><strong style="font-size: 22px;">Sunday</strong></br>
-				9:00am to 12:00am</div>
+        7:00am to 3:00am</div>
+        <div><strong style="font-size: 22px;">Saturday</strong></br>
+        9:00am to 3:00am</div>
+        <div><strong style="font-size: 22px;">Sunday</strong></br>
+        9:00am to 12:00am</div>
         </body>
         </html>]]>
       </hours>
@@ -1369,9 +1315,9 @@
           <item title="Build Your Own Omelet" />
           <item title="French Toast Sticks" />
           <item title="Two Farm Fresh Eggs Any Style" />
-	  <item title="Farmhouse Breakfast Sandwich" />
-	  <item title="Nutella French Toast" />
- 	  <item title="Buttermilk Pancakes" />
+    <item title="Farmhouse Breakfast Sandwich" />
+    <item title="Nutella French Toast" />
+    <item title="Buttermilk Pancakes" />
           <item title="Breakfast Snack Wrap" />
           <item title="Philly Style Cheese Steak" />
           <item title="Grilled Chicken Breast" />
@@ -1386,10 +1332,10 @@
           <item title="Veggie Burger" />
           <item title="The Original with Cheese" />
           <item title="The Double" />
-	  <item title="The Double with Cheese" />
+    <item title="The Double with Cheese" />
           <item title="Rochester Garbage Plate" />
-	  <item title="Cheese Quesadilla" />
-	  <item title="Chicken Quesadilla" />
+    <item title="Cheese Quesadilla" />
+    <item title="Chicken Quesadilla" />
           <item title="Crispy Chicken Wrap" />
           <item title="Grilled Cheese" />
           <item title="Chicken Wings" />
@@ -1400,10 +1346,10 @@
           <item title="Chicken Nuggets" />
           <item title="French Fries" />
           <item title="Cheese Fries" />
-	  <item title="Sweet Potato Fries" />
+    <item title="Sweet Potato Fries" />
           <item title="Pierogies" />
           <item title="Pretzel Bites" />
-	  <item title="Apple Pie Bites" />
+    <item title="Apple Pie Bites" />
 
         </station>
 
@@ -1455,10 +1401,10 @@
           }
           </style>
           <body>
-				  <div><strong style="font-size: 22px;">Monday - Friday</strong></br>
-				  8:00am to 8:00pm</div>
-				  <div><strong style="font-size: 22px;">Saturday</strong></br>
-				  1:00pm to 8:00pm</div>
+          <div><strong style="font-size: 22px;">Monday - Friday</strong></br>
+          8:00am to 8:00pm</div>
+          <div><strong style="font-size: 22px;">Saturday</strong></br>
+          1:00pm to 8:00pm</div>
 
           </body>
           </html> ]]>
@@ -1551,13 +1497,13 @@
           }
           </style>
           <body>
-				  <div><strong style="font-size: 22px;">Monday - Thursday</strong></br>
-				  8:30am to 8:00pm</div>
+          <div><strong style="font-size: 22px;">Monday - Thursday</strong></br>
+          8:30am to 8:00pm</div>
           <div><strong style="font-size: 22px;">Friday</strong></br>
-				  8:30am to 6:00pm</div>
+          8:30am to 6:00pm</div>
           </body>
           </html>
-				  ]]>
+          ]]>
       </hours>
       <menu>
         <item title="Cappuccino" />
