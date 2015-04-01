@@ -3,128 +3,83 @@
     <head>
 
         <title>Menu</title>
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="icon" type="image/png" href="CircleM.png">
         <script src="x2js-v1.1.5/xml2json.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
         <script src="js/angular-xml.min.js"></script>
         <script src="js/menu.js"></script>
         <script src="js/moment.js"></script>
         <script src="angular-moment.min.js"></script>
-        <meta charset="utf-8">
-        <script>
-        /*var myapp = angular.module('myapp', ['angularMoment']);*/
-        </script>
+
         <link href="css/scrolling-nav.css" rel="stylesheet">
-
         <link href="css/bootstrap.min.css" rel="stylesheet">
-
-        <style>
-       body{
-            
-            background-color:#DED5B3;
-            min-height: 2000px;
-            padding-top: 70px;
-        }
-        
-        a {
-            color:#000000;
-        }
-        .navbar {
-            color:#000000;
-            background-color:#CC092F;
-        }
-        .navbar-default .navbar-nav li .hover {
-            color:#E4E4E4;
-        }
-        .navbar-default .navbar-nav li a {
-             color:#000000;
-             text-shadow: none;
-             font-size: 18px;
-             margin-top: 5px;
-        }
-        .panel-primary .panel-heading {
-            background-color:#003050;
-            border-color:#003050;
-        }
-        .panel-primary .panel-body {
-            background-color:#1A4663;
-            color:#FFFFFF;
-        }
-        
-        .accordion-inner {
-            background-color:#003050;
-            color:#FFFFFF;
-        }
-       
-        .period {
-            font-size: 16px;
-            font-weight: bold;
-
-        }
-        .station {
-            font-size: 14px;
-            font-weight: normal;
-            
-        }
-        .item {
-            font-size: 12px;             
-            font-weight: normal;
-        }
-        .asection{
-            height: 100%;
-        padding-top: 50px;
-    
-   
-
-        }
-        </style>
+        <link href="custom-style.css" rel="stylesheet">
     </head>
-    <body ng-controller="MenuCtrl" data-spy="scroll" id="top">
+    <body ng-controller="MenuCtrl" data-spy="scroll" id="top" data-target=".scrollspy">
 <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
           <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" >
               <span class="sr-only">navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#top">{{menu.name}}</a>
+            <a class="navbar-brand page-scroll" href="#top">{{menu.name}} Menu</a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav" ng-repeat="d in menu.days">
-              <li><a class="page-scroll" href="#{{$index}}">{{d.date}} <!--{{d.date | amDateFormat :'dddd Do'}}--></a></li>
+              <li><a class="hidden-xs hidden-md hidden-sm page-scroll"  href="#day{{d.day_of_year}}">{{d.weekday_long}}</a></li>
+              <li><a class="hidden-xs visible-md visible-sm page-scroll" href="#day{{d.day_of_year}}">{{d.weekday_short}}</a></li>
+              <li><a class="visible-xs page-scroll" href="#day{{d.day_of_year}}" data-toggle="collapse" data-target=".navbar-collapse">{{d.date_long}} <!--{{d.date | amDateFormat :'dddd Do'}}--></a></li>
             </ul>
             
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </nav>
-<div class="container-fluid">
-<section ng-repeat="d in menu.days" id="{{$index}}" class="asection">
-    <div class="row">
-        <div class="col-xs-12 col-md-12">
-    <div class="page-header">
-    
-    <h3>{{d.date}}</h3>
-</div>
+<div class="container-fluid" style="padding-bottom:50px">
+    <section ng-repeat="d in menu.days" id="day{{d.day_of_year}}" class="asection" data-spy="scroll">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 scrollspy">
+                <div class="page-header" data-spy="affix">
+                    <h3>{{d.date_long}}</h3>
+                </div>
 
-<div class="panel panel-primary"  ng-repeat="p in d.periods" class="period">
-    <div class="panel-heading">{{p.name}}</div>
-    <div class="panel-body">
-<ul ng-repeat="s in p.stations" class="station">{{s.name}}
-<ul ng-repeat="i in s.items" class="item">{{i}}
-                    <!--error with stations with only one item//chefs table, item is an object not an array.. -->
-                </ul>
-            </ul>
-        </div>
-        </div>
+            <div class="list-group" id="accordion{{d.day_of_year}}" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default" ng-repeat="p in d.periods">
+    <div class="panel-heading" role="tab" id="heading{{d.day_of_year}}{{p.name}}" data-toggle="collapse" data-parent="#accordion{{d.day_of_year}}" href="#collapse{{d.day_of_year}}{{p.name}}" aria-expanded="false" aria-controls="collapse{{d.day_of_year}}{{p.name}}">
+      <h4 class="panel-title">
+        <p class="collapsed" >
+          {{p.name}}
+        </p>
+      </h4>
     </div>
+    <div id="collapse{{d.day_of_year}}{{p.name}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{d.day_of_year}}{{p.name}}">
+      <div class="panel-body">
+        <ul ng-repeat="s in p.stations" class="station">
+          {{s.name}}
+          <ul ng-repeat="i in s.items" class="item">
+          {{i}}
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
 </div>
-</section>
+            </div>
+        </div>
+    </section>
 </div>
-<footer>
-
+ 
+<footer class="footer">
+    <div class="container-fluid">
+        <p class="footer content">&#169; HB </p>
+    </div>
     </footer>
 
                
@@ -132,6 +87,6 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/scrolling-nav.js"></script>
         <script src="js/jquery.easing.min.js"></script>
-        
-    </body>
+        </body>
+   
 </html>
